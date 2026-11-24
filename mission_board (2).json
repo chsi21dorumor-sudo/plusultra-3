@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "plusultra:block/mission_board"
+    }
+  }
+}

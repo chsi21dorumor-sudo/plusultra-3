@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="plusultra"
+version="0.1.0"
+displayName="Plus Ultra"
+authors="Plus Ultra Contributors"
+description='''
+My Hero Academia fan mod: awaken a Quirk, train it, take hero missions, fight villains,
+found a Hero Agency and train in the Training Ground dimension.
+Unofficial fan project. My Hero Academia belongs to Kohei Horikoshi / Shueisha.
+'''
+
+[[dependencies.plusultra]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.172,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.plusultra]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
